@@ -25,8 +25,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='https://i.imgur.com/ohlL2LZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://imgur.com/a/oXdtPcr
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
